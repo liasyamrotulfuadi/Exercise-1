@@ -1,0 +1,31 @@
+html {
+    background: rgb(228, 64, 64);
+}
+
+body{
+    position: relative;
+    width: 800px;
+    height: 600px;
+    margin: 50px auto;
+    padding: 20px ;
+    text-align: left;
+    border: 5px solid grey;
+    border-radius: 12px;
+    background-attachment: local;
+    background: rgba(189, 175, 146, 0.911);
+  }
+
+  h1{
+    text-align : center;
+    font-style: initial;
+    font-size: 50px;
+    color: red;
+  }
+
+  img {
+      width : 35%;
+      height: 35%;
+      display: block;
+      margin: auto;
+  }
+
